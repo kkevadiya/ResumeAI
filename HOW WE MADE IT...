@@ -1,0 +1,25 @@
+WEBSITE LINK:
+
+FOR MAKING THIS WEBSITE WE HAVE USED
+
+=IN Frontend:
+
+*Framework: React
+*Language: TypeScript
+*Build Tool: Vite
+*Styling: Tailwind CSS and tailwindcss-animate for animations
+*Component Library: Radix UI for various components like Accordion, Dialog, Dropdown Menu, etc.
+*State Management: React context is used for managing authentication and resume data.
+*Routing: React Router DOM for handling navigation.
+
+=IN Backend and Database:
+
+*Backend as a Service (BaaS): Supabase is used for authentication and database management.
+
+*AI Features:
+ :The application's "AI-Powered Suggestions" feature is inspired by and built with the help of a large language model like Gemini.
+
+*Other Tools:
+ :Deployment: The project is deployed using Vercel.
+
+*PDF Generation: The website uses html2canvas and jspdf to export resumes as PDF files.
